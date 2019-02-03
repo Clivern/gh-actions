@@ -1,11 +1,6 @@
-```
-~ Github Actions Playground
-```
-
 <p align="center">
     <h3 align="center">Github Actions Playground</h3>
 </p>
-
 
 ## Acknowledgements
 
